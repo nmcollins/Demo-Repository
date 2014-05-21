@@ -1,5 +1,5 @@
 <?php
-echo 'Nicholas Rocks!';
+echo 'Nicholas Rocks Test!';
 ?>
 <iframe
 	src="https://www.google.com/calendar/embed?src=afnbvram6j1929ui1i6cqr4h1s%40group.calendar.google.com&ctz=America/Toronto"
